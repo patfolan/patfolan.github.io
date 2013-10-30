@@ -1,3 +1,7 @@
+h1{
+	text-align: center;
+	border: bottom;
+}
 section{
 	width:60%;
 	float:left;
