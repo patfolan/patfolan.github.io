@@ -1,0 +1,19 @@
+h1{
+	text-align: center;
+	border: bottom;
+}
+section{
+	width:60%;
+	float:left;
+}
+aside{
+	width: 35%;
+	float: left;
+}
+hr{
+	height:15px;
+	background-color:black;
+}
+footer{
+	clear:both;
+}
