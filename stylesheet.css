@@ -22,9 +22,20 @@ img{
 	margin-left:auto;
 	margin-right:auto;
 }
-li{
-	list-style: none;
-}
 div a{ 
 	float:left;
 	}
+p{
+	border-style: solid;
+	padding:10px;
+	font-family: sans-serif;
+}
+#navilist ul{ 
+margin:0;
+padding: 0;
+list-style:none;}
+#navlist li{
+width:100px;
+display:inline-block;
+text-align:center;
+}
